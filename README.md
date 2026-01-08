@@ -1,10 +1,4 @@
 # Power-BI-Sales-Dashboard
-This project is an end-to-end Power BI Business Intelligence solution built to analyse sales performance, orders, categories, and territories using data imported from SQL Server.
-<img width="1117" height="625" alt="1" src="https://github.com/user-attachments/assets/709467c9-8339-45b6-b1f2-3ac348ecb429" />
--->>
-
-<img width="1105" height="590" alt="2" src="https://github.com/user-attachments/assets/d9deeaae-b733-4e5c-be77-56ed17904f7c" />
--->>
 This project is an end-to-end Power BI Business Intelligence solution built to analyze sales performance, orders, categories, and territories using data imported from SQL Server.
 
 The goal of this project is to demonstrate practical skills in:
@@ -18,6 +12,13 @@ Data modeling
 DAX measures
 
 Dashboard design & storytelling
+
+<img width="1117" height="625" alt="1" src="https://github.com/user-attachments/assets/709467c9-8339-45b6-b1f2-3ac348ecb429" />
+-->>
+
+<img width="1105" height="590" alt="2" src="https://github.com/user-attachments/assets/d9deeaae-b733-4e5c-be77-56ed17904f7c" />
+
+
 
 🗄️ Data Source
 
